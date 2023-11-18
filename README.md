@@ -31,7 +31,7 @@ The Boss Baby is a 2017 American animated comedy film produced by DreamWorks Ani
  ---
    
  
--Alec Baldwin as Theodore Lindsay "Ted" Templeton Jr./The Boss Baby, an infant with the mind of an adult, who works at Baby Corp and gains his intelligence and speaking ability from
+- Alec Baldwin as Theodore Lindsay "Ted" Templeton Jr./The Boss Baby, an infant with the mind of an adult, who works at Baby Corp and gains his intelligence and speaking ability from
  drinking a "Secret Baby Formula".
 
  ---
@@ -42,7 +42,7 @@ The Boss Baby is a 2017 American animated comedy film produced by DreamWorks Ani
 
  
 
--Miles Bakshi as Timothy Leslie "Tim" Templeton, Boss Baby's 7-year-old brother.
+- Miles Bakshi as Timothy Leslie "Tim" Templeton, Boss Baby's 7-year-old brother.
 
 
 ---
@@ -50,14 +50,14 @@ The Boss Baby is a 2017 American animated comedy film produced by DreamWorks Ani
 ---
 
 
--Tobey Maguire as Adult Tim, the narrator.
+- Tobey Maguire as Adult Tim, the narrator.
 
 
 ---
 ![image](https://github.com/eiroj1/app-dev/assets/151309300/6e53048f-ee42-4e39-897d-b0c70b632b32)
 ---
 
--Jimmy Kimmel as Theodore Lindsay "Ted" Templeton Sr., Janice's husband and Tim and Ted Jr.'s father.
+- Jimmy Kimmel as Theodore Lindsay "Ted" Templeton Sr., Janice's husband and Tim and Ted Jr.'s father.
 
 
 ---
@@ -65,7 +65,7 @@ The Boss Baby is a 2017 American animated comedy film produced by DreamWorks Ani
 ---
 
 
--Lisa Kudrow as Janice Templeton, Ted Sr.'s wife and Tim and Ted Jr.'s mother.
+- Lisa Kudrow as Janice Templeton, Ted Sr.'s wife and Tim and Ted Jr.'s mother.
 
 ---
 ![image](https://github.com/eiroj1/app-dev/assets/151309300/b3ca36f1-9f65-4d0f-887e-a904050af968)
